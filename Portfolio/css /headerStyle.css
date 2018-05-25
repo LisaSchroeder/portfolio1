@@ -1,0 +1,23 @@
+.divider hr {
+    margin: 0px;
+    height: 3px;
+    size: A4;
+}
+
+.navbar-nav li {
+    display: inline-block;
+    align-content: center;
+    border: black thin solid;
+    margin: 7px 4px 0px 2px;
+    padding: 0px 10px;
+}
+
+{
+    align-content: center;
+    background-color: red;
+}
+
+#loginModal {
+    margin: 0 auto;
+    width:250px;
+}

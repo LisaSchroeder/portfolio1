@@ -1,0 +1,12 @@
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+}
+
+.carousel-inner h3{
+     font-size: 35px;
+}
+
+.carousel-inner p{
+    font-size: 20px;
+}
+
